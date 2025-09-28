@@ -1,21 +1,34 @@
+﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TransparentCameraEnabler", "TransparentCameraEnabler\TransparentCameraEnabler.csproj", "{FFA93FA9-4040-46FF-8A1C-2A190C0CC235}"
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TransparentCameraEnabler", "RendererPlugin\TransparentCameraEnabler.csproj", "{DDCC83EA-40F6-4527-BD2A-D9E367918C73}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
 		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{FFA93FA9-4040-46FF-8A1C-2A190C0CC235}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{FFA93FA9-4040-46FF-8A1C-2A190C0CC235}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{FFA93FA9-4040-46FF-8A1C-2A190C0CC235}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{FFA93FA9-4040-46FF-8A1C-2A190C0CC235}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDCC83EA-40F6-4527-BD2A-D9E367918C73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDCC83EA-40F6-4527-BD2A-D9E367918C73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDCC83EA-40F6-4527-BD2A-D9E367918C73}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{DDCC83EA-40F6-4527-BD2A-D9E367918C73}.Debug|x64.Build.0 = Debug|Any CPU
+		{DDCC83EA-40F6-4527-BD2A-D9E367918C73}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{DDCC83EA-40F6-4527-BD2A-D9E367918C73}.Debug|x86.Build.0 = Debug|Any CPU
+		{DDCC83EA-40F6-4527-BD2A-D9E367918C73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDCC83EA-40F6-4527-BD2A-D9E367918C73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDCC83EA-40F6-4527-BD2A-D9E367918C73}.Release|x64.ActiveCfg = Release|Any CPU
+		{DDCC83EA-40F6-4527-BD2A-D9E367918C73}.Release|x64.Build.0 = Release|Any CPU
+		{DDCC83EA-40F6-4527-BD2A-D9E367918C73}.Release|x86.ActiveCfg = Release|Any CPU
+		{DDCC83EA-40F6-4527-BD2A-D9E367918C73}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {FFA93FA9-4040-46FF-8A1C-2A190C0CC235}
 	EndGlobalSection
 EndGlobal
