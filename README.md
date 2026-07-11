@@ -1,3 +1,6 @@
+> [!IMPORTANT]  
+> This mod was implemented into the base game in https://github.com/Yellow-Dog-Man/Renderite/pull/9 and thus is obsolte.
+
 # TransparentCameraEnabler
 [![Thunderstore Badge](https://modding.resonite.net/assets/available-on-thunderstore.svg)](https://thunderstore.io/c/resonite/)
 
